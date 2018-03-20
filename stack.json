@@ -76,7 +76,7 @@
 							"sudo chmod 400 jenkins.pem\n",
 							"sudo chef-client -o recipe[test::docs_example]\n",
 							"cd /opt/tomcat_docs/webapps\n",
-							"sudo wget http://ec2-52-53-129-182.us-west-1.compute.amazonaws.com:8081/nexus/service/local/repositories/releases/content/com/mkyong/CounterWebApp/1.0/CounterWebApp-1.0.war\n",
+							"sudo wget http://ec2-34-229-198-8.compute-1.amazonaws.com:8081/nexus/repositories/releases/sonatype/mavenbook/simple-web-app\n",
 							"sudo cd opt/tomcat_docs/bin\n",
 							"./shutdown.sh\n",
 							"./startup.sh\n",
