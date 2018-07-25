@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-66506c1c"
+    "ParameterValue": "ami-8c122be9"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "jenkins"
+    "ParameterValue": "GOPIKRISH"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-827f06da"
+    "ParameterValue": "subnet-979b76ed"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-4c53a42a"
+    "ParameterValue": "sg-09a99f63"
   }
 ]
