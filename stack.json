@@ -70,7 +70,7 @@
 							"sudo rpm -ivh *.rpm\n",
 							"sudo mkdir /etc/chef\n",
 							"cd /etc/chef\n",
-							"wget https://s3-us-west-1.amazonaws.com/cicdjob/client.rb\n",
+							"https://s3.console.aws.amazon.com/s3/buckets/deployingapplicationforpractice",
 							"wget https://s3-us-west-1.amazonaws.com/cicdjob/knife.rb\n",
 							"wget https://s3-us-west-1.amazonaws.com/cicdjob/jenkins.pem\n",
 							"sudo chmod 400 jenkins.pem\n",
