@@ -71,7 +71,7 @@
 							"wget https://github.com/gopikrishna8464/Ansible_Roles/blob/master/tomcat/roles/tomcat/files/tomcat-initscript.sh\n",
 							"wget https://github.com/gopikrishna8464/Ansible_Roles/blob/master/tomcat/roles/tomcat/tasks/main.yml\n",
 							"wget https://github.com/gopikrishna8464/Ansible_Roles/blob/master/tomcat/roles/tomcat/templates/server.xml\n",
-							"wget https://github.com/gopikrishna8464/Ansible_Roles/blob/master/tomcat/roles/tomcat/templates/tomcat-users.xml\m\n",
+							"wget https://github.com/gopikrishna8464/Ansible_Roles/blob/master/tomcat/roles/tomcat/templates/tomcat-users.xml\n",
 							"sudo chmod 700 main.yml\n",
 							"sudo ansible-playbook -v tasks/main.yml\n",
 							"cd /root/ansible/tomcat/webapps\n",
