@@ -70,7 +70,7 @@
 							"sudo rpm -ivh *.rpm\n",
 							"sudo mkdir /etc/gk\n",
 							"cd /etc/gk\n",
-							"wget https://s3.us-east-2.amazonaws.com/cicdgopi/GOPIKRISH.pem\n",
+							"wget https://s3.us-east-2.amazonaws.com/gopikrish/GOPIKRISH.pem\n",
 							"wget https://s3-us-west-1.amazonaws.com/cicdjob/knife.rb\n",
 							"wget https://s3-us-west-1.amazonaws.com/cicdjob/jenkins.pem\n",
 							"sudo chmod 400 GOPIKRISH.pem\n",
