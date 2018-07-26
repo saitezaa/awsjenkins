@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-8c122be9"
+    "ParameterValue": "ami-9c0638f9"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -17,6 +17,6 @@
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-09a99f63"
+    "ParameterValue": "sg-495b6323"
   }
 ]
