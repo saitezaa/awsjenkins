@@ -76,7 +76,7 @@
 							"sudo chmod 400 jenkins.pem\n",
 							"sudo chef-client -o recipe[test::docs_example]\n",
 							"cd /opt/tomcat_docs/webapps\n",
-							"sudo wget http://18.222.193.41:8081/nexus-2.14.8-01/content/repositories/releases/org/dep/sonatype/simple_webapp/1.0\n",
+							"sudo wget http://18.222.193.41:8081/nexus-2.14.8-01/content/repositories/releases/org/dep/sonatype/simple_webapp/1.0/simple_webapp-1.0.war\n",
 							"sudo cd opt/tomcat_docs/bin\n",
 							"./shutdown.sh\n",
 							"./startup.sh\n",
