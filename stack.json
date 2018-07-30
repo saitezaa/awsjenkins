@@ -75,6 +75,10 @@
 							"cd /usr/share/tomcat/bin\n",
 							"./shutdown.sh\n",
 							"./startup.sh\n",
+							"cd /usr/share/tomcat/webapps\n",
+							"wget http://www.sonatype.org/downloads/nexus-latest.war\n",
+							"./shutdown.sh\n",
+							"./startup.sh\n",
 							{
 							"Ref": "WaitHandle"
 							}, "'\n"
