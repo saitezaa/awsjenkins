@@ -76,7 +76,7 @@
 							"./shutdown.sh\n",
 							"./startup.sh\n",
 							"cd /usr/share/tomcat/webapps\n",
-							"wget http://18.191.92.146:8080/nexus-2.14.8-01/content/repositories/releases/org/dep/sonatype/simple_webapp/2.0/simple_webapp-2.0.war\n",
+							"wget http://18.222.93.154:8080/nexus-2.14.8-01/content/repositories/releases/org/dep/sonatype/simple_webapp/3.0/simple_webapp-3.0.war\n",
 							"cd /usr/share/tomcat/bin\n",
 							"./shutdown.sh\n",
 							"./startup.sh\n",
