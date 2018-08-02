@@ -9,7 +9,7 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "GOPIKRISH"
+    "ParameterValue": "ubuntu"
    },
   {
      "ParameterKey": "SubnetId",
