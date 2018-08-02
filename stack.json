@@ -21,18 +21,18 @@
 		"ImageID": {
 			"Description": "Name of an existing EC2 KeyPair to enable SSH access to the instance",
 			"Type": "String",
-			"Default": "ami-9c0638f9"
+			"Default": "ami-9887c6e7"
 
 		},
 		"InstanceSecurityGroup": {
 			"Description": " The IP address range that can be used to SSH to the EC2 instances",
 			"Type": "AWS::EC2::SecurityGroup::Id",
-			"Default": "sg-495b6323"
+			"Default": "sg-06550c3ac9fedb129"
 		},
 		"SubnetId": {
 			"Description": " The IP address range that can be used to SSH to the EC2 instances",
 			"Type": "AWS::EC2::Subnet::Id",
-			"Default": "subnet-979b76ed"
+			"Default": "subnet-a45e868a"
 		}
 
 	},
